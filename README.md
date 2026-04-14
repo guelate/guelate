@@ -6,6 +6,8 @@
 - 💼 Full Stack Developer · Veepee Saint-Denis
 - ☁️ AWS Certified Cloud Practitioner · AWS Certified Solutions Architect Associate
 - 💻 I enjoy building projects and understanding how things work.
+
+- 🔍 Currently Open To Work
 ---
 
 ### 🚀 Technologies & Skills
